@@ -2,9 +2,12 @@
 🚀 Aspiring Full-Stack Developer | Open Source Enthusiast
 
 🔭 Currently exploring: Web Development, Android development
+
 📚 Education: BTech, Mechanical Engineering @ IIITDM Jabalpur
+
 💻 Past Work:
 Built a Chrome extension for task management during a hackathon.
+
 ⚡ Fun Fact: I love building creative websites and am passionate about solving real-world problems!
 
 <!---

@@ -1,10 +1,14 @@
 Hi, I’m Tanishka!
+
 Open-Source Developer
+
 Currently exploring: Web Development, AI and everything in between.
+
 Education: Bachelor of Technology @ IIITDM Jabalpur
+
 Fun Fact: I love building things which solve real-world problems!
 
-Achievements
+### Achievements
 
 ### Open Source Contributions
 - Selected for C4GT DMP (94 out of 4500+)
